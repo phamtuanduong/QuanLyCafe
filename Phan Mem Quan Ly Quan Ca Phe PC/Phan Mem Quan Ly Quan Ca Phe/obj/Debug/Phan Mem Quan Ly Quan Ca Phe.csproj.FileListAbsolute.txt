@@ -1,0 +1,389 @@
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe.config
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.Properties.Resources.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.GenerateResource.cache
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CoreCompileInputs.cache
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fLogin.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fTableManager.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Guna.UI2.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CopyComplete
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucWelcome.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucAccountManager.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMenuManager.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucStatistical.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucCafeManager.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\WindowsBase.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OOXML.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.xml
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.xml
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\EnvDTE.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\stdole.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.MSXML.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.xml
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.xml
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fPaid.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csprojAssemblyReference.cache
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe.config
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Guna.UI2.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OOXML.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\WindowsBase.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\EnvDTE.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\stdole.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.MSXML.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.xml
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.xml
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.xml
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.xml
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csprojAssemblyReference.cache
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fLogin.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fPaid.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fTableManager.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.MainForm.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.Properties.Resources.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucAccountManager.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucCafeManager.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMenuManager.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBox.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucStatistical.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucWelcome.resources
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.GenerateResource.cache
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\RdlCompile.cache
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\RdlCompile.compiled
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CoreCompileInputs.cache
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CopyComplete
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\Veltlion\backupNienLuan\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxLogin.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxCafeManager.resources
+F:\Veltlion\Nien Luan CSN\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxUpdateData.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe.config
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Guna.UI2.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OOXML.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\WindowsBase.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\EnvDTE.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\stdole.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.MSXML.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.xml
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.xml
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.xml
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.xml
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csprojAssemblyReference.cache
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fLogin.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fPaid.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fTableManager.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.Properties.Resources.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucAccountManager.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucCafeManager.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMenuManager.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxCafeManager.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxLogin.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxUpdateData.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucStatistical.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucWelcome.resources
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.GenerateResource.cache
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CoreCompileInputs.cache
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CopyComplete
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\Veltlion\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe.config
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Guna.UI2.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OOXML.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXml4Net.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\WindowsBase.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\EnvDTE.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\stdole.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Microsoft.MSXML.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\AngleSharp.xml
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\BouncyCastle.Crypto.xml
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\CsQuery.xml
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\Dapper.xml
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csprojAssemblyReference.cache
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fLogin.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fPaid.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.fTableManager.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.Properties.Resources.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucAccountManager.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucCafeManager.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMenuManager.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxCafeManager.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxLogin.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucMessageBoxUpdateData.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucStatistical.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan_Mem_Quan_Ly_Quan_Ca_Phe.UserControls.ucWelcome.resources
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.GenerateResource.cache
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CoreCompileInputs.cache
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.csproj.CopyComplete
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.exe
+F:\HOCTAP\PTPMTN\PhatTrienTacNghiep\Phan Mem Quan Ly Quan Ca Phe\Phan Mem Quan Ly Quan Ca Phe\obj\Debug\Phan Mem Quan Ly Quan Ca Phe.pdb
